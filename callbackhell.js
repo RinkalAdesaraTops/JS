@@ -15,7 +15,7 @@ const getMsg = (func)=>{
                     },700)
             },500) 
         },300)
-    },200)
-   
+    },200) 
 }
+//Get Display
 getMsg(dispMsg)
